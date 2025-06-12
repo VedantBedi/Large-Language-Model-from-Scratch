@@ -58,7 +58,7 @@ The model is trained **from scratch** on the tokenized Gatsby dataset using a st
 
 Download pretrained weights on Hugging Face:
 
-👉 [Pre Trained weights]([https://huggingface.co/your-model-name](https://huggingface.co/VedantBedi/GPT2_self_pretrained/tree/main))  
+👉 [Pre Trained weights]([https://huggingface.co/your-model-name](https://huggingface.co/VedantBedi/GPT2_self_pretrained/tree/main) 
 
 
 ---
